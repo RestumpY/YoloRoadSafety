@@ -1,0 +1,6 @@
+path: C:/Users/yanni/Desktop/Memoire/Projet/Yolo/dataset  # Chemin complet vers le dossier contenant vos données
+train: images/train  # Chemin complet pour les images d'entraînement
+val: images/val  # Chemin complet pour les images de validation
+
+nc: 3  # Nombre de classes
+names: ['voiture', 'piéton', 'feu de signalisation']  # Liste des classes
